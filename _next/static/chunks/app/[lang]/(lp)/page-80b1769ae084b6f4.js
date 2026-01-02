@@ -2186,7 +2186,7 @@
                     }),
                     (0, s.jsx)(Z.Ay, {
                       color: "blue",
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc82e6b08cd3237075229195a59c454eeb87316b3",
                       children: "Buy Now",
                     }),
                     (0, s.jsx)(Z.Ay, {
