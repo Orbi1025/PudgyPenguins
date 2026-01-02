@@ -2187,7 +2187,17 @@
                     (0, s.jsx)(Z.Ay, {
                       color: "blue",
                       href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
-                      children: "Chart",
+                      children: "Buy Now",
+                    }),
+                    (0, s.jsx)(Z.Ay, {
+                      color: "red",
+                      href: "https://t.me/WorldOfPengu",
+                      children: "Community",
+                    }),
+                    (0, s.jsx)(Z.Ay, {
+                      color: "green",
+                      href: "https://x.com/WorldOfPengu",
+                      children: "X",
                     }),
                   ],
                 }),
